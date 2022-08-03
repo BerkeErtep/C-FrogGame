@@ -1,0 +1,30 @@
+/Users/doganalisan/Desktop/C sharp Projects/Exercism /bin/Debug/net6.0/Exercism
+/Users/doganalisan/Desktop/C sharp Projects/Exercism /bin/Debug/net6.0/Exercism.deps.json
+/Users/doganalisan/Desktop/C sharp Projects/Exercism /bin/Debug/net6.0/Exercism.runtimeconfig.json
+/Users/doganalisan/Desktop/C sharp Projects/Exercism /bin/Debug/net6.0/Exercism.dll
+/Users/doganalisan/Desktop/C sharp Projects/Exercism /bin/Debug/net6.0/Exercism.pdb
+/Users/doganalisan/Desktop/C sharp Projects/Exercism /obj/Debug/net6.0/Exercism.csproj.AssemblyReference.cache
+/Users/doganalisan/Desktop/C sharp Projects/Exercism /obj/Debug/net6.0/Exercism.GeneratedMSBuildEditorConfig.editorconfig
+/Users/doganalisan/Desktop/C sharp Projects/Exercism /obj/Debug/net6.0/Exercism.AssemblyInfoInputs.cache
+/Users/doganalisan/Desktop/C sharp Projects/Exercism /obj/Debug/net6.0/Exercism.AssemblyInfo.cs
+/Users/doganalisan/Desktop/C sharp Projects/Exercism /obj/Debug/net6.0/Exercism.csproj.CoreCompileInputs.cache
+/Users/doganalisan/Desktop/C sharp Projects/Exercism /obj/Debug/net6.0/Exercism.dll
+/Users/doganalisan/Desktop/C sharp Projects/Exercism /obj/Debug/net6.0/refint/Exercism.dll
+/Users/doganalisan/Desktop/C sharp Projects/Exercism /obj/Debug/net6.0/Exercism.pdb
+/Users/doganalisan/Desktop/C sharp Projects/Exercism /obj/Debug/net6.0/Exercism.genruntimeconfig.cache
+/Users/doganalisan/Desktop/C sharp Projects/Exercism /obj/Debug/net6.0/ref/Exercism.dll
+/Users/doganalisan/Desktop/C sharp Projects/Backup/01/bin/Debug/net6.0/Exercism
+/Users/doganalisan/Desktop/C sharp Projects/Backup/01/bin/Debug/net6.0/Exercism.deps.json
+/Users/doganalisan/Desktop/C sharp Projects/Backup/01/bin/Debug/net6.0/Exercism.runtimeconfig.json
+/Users/doganalisan/Desktop/C sharp Projects/Backup/01/bin/Debug/net6.0/Exercism.dll
+/Users/doganalisan/Desktop/C sharp Projects/Backup/01/bin/Debug/net6.0/Exercism.pdb
+/Users/doganalisan/Desktop/C sharp Projects/Backup/01/obj/Debug/net6.0/Exercism.csproj.AssemblyReference.cache
+/Users/doganalisan/Desktop/C sharp Projects/Backup/01/obj/Debug/net6.0/Exercism.GeneratedMSBuildEditorConfig.editorconfig
+/Users/doganalisan/Desktop/C sharp Projects/Backup/01/obj/Debug/net6.0/Exercism.AssemblyInfoInputs.cache
+/Users/doganalisan/Desktop/C sharp Projects/Backup/01/obj/Debug/net6.0/Exercism.AssemblyInfo.cs
+/Users/doganalisan/Desktop/C sharp Projects/Backup/01/obj/Debug/net6.0/Exercism.csproj.CoreCompileInputs.cache
+/Users/doganalisan/Desktop/C sharp Projects/Backup/01/obj/Debug/net6.0/Exercism.dll
+/Users/doganalisan/Desktop/C sharp Projects/Backup/01/obj/Debug/net6.0/refint/Exercism.dll
+/Users/doganalisan/Desktop/C sharp Projects/Backup/01/obj/Debug/net6.0/Exercism.pdb
+/Users/doganalisan/Desktop/C sharp Projects/Backup/01/obj/Debug/net6.0/Exercism.genruntimeconfig.cache
+/Users/doganalisan/Desktop/C sharp Projects/Backup/01/obj/Debug/net6.0/ref/Exercism.dll
